@@ -5,7 +5,7 @@ A blogger (30%), developer (60%) and an entrepreneur(10%) ?. A WordPress speed e
 
 ### I run
 - [WP Speed Matters](https://wpspeedmatters.com)
-- [FlyingPress](FlyingPress)
+- [FlyingPress](https://flying-press.com/)
 
 ### Where to find me
 - [Twitter](https://twitter.com/gijovarghese141)
