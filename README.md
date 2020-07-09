@@ -1,7 +1,7 @@
 ## Hi, I'm Gijo Varghese 👋
 
 ### About me
-A blogger (30%), developer (60%) and an entrepreneur(10%) ?. A WordPress speed enthusiast, love to work with web performance.
+A developer, blogger and entrepreneur. Loves working with web performance. A WordPress speed enthusiast.
 
 ### I run
 - [WP Speed Matters](https://wpspeedmatters.com)
