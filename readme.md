@@ -9,5 +9,5 @@ A developer, blogger and entrepreneur. Loves working with web performance. A Wor
 - [FlyingProxy](https://flyingproxy.com/)
 
 ### Where to find me
-- [Twitter](https://twitter.com/gijovarghese141)
+- [Twitter](https://twitter.com/GijoVarghese_)
 - [Facebook](https://www.facebook.com/gijovarghese141/)
