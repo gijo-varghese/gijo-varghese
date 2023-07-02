@@ -4,9 +4,9 @@
 A developer, blogger and entrepreneur. Loves working with web performance. A WordPress speed enthusiast.
 
 ### I run
+- [FlyingPress](https://FlyingPress.com/)
+- [FlyingCDN](https://FlyingCDN.com/)
 - [WP Speed Matters](https://wpspeedmatters.com)
-- [FlyingPress](https://flying-press.com/)
-- [FlyingProxy](https://flyingproxy.com/)
 
 ### Where to find me
 - [Twitter](https://twitter.com/GijoVarghese_)
